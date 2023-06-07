@@ -1,0 +1,12 @@
+/Users/shakoss/Desktop/Quote_Quiz/Quize_App_Back/Shared/bin/Debug/net7.0/Shared.deps.json
+/Users/shakoss/Desktop/Quote_Quiz/Quize_App_Back/Shared/bin/Debug/net7.0/Shared.dll
+/Users/shakoss/Desktop/Quote_Quiz/Quize_App_Back/Shared/bin/Debug/net7.0/Shared.pdb
+/Users/shakoss/Desktop/Quote_Quiz/Quize_App_Back/Shared/obj/Debug/net7.0/Shared.csproj.AssemblyReference.cache
+/Users/shakoss/Desktop/Quote_Quiz/Quize_App_Back/Shared/obj/Debug/net7.0/Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shakoss/Desktop/Quote_Quiz/Quize_App_Back/Shared/obj/Debug/net7.0/Shared.AssemblyInfoInputs.cache
+/Users/shakoss/Desktop/Quote_Quiz/Quize_App_Back/Shared/obj/Debug/net7.0/Shared.AssemblyInfo.cs
+/Users/shakoss/Desktop/Quote_Quiz/Quize_App_Back/Shared/obj/Debug/net7.0/Shared.csproj.CoreCompileInputs.cache
+/Users/shakoss/Desktop/Quote_Quiz/Quize_App_Back/Shared/obj/Debug/net7.0/Shared.dll
+/Users/shakoss/Desktop/Quote_Quiz/Quize_App_Back/Shared/obj/Debug/net7.0/refint/Shared.dll
+/Users/shakoss/Desktop/Quote_Quiz/Quize_App_Back/Shared/obj/Debug/net7.0/Shared.pdb
+/Users/shakoss/Desktop/Quote_Quiz/Quize_App_Back/Shared/obj/Debug/net7.0/ref/Shared.dll
